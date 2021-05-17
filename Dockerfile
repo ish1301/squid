@@ -1,0 +1,2 @@
+FROM datadog/squid:latest
+
